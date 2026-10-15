@@ -2,10 +2,10 @@
 
     python make_references.py burgers <out_dir>
 
-The released reference (chebfun spin, 511 Fourier points, dt 1e-5) is not
-converged: the viscous shock is narrower than the grid spacing. Here: Fourier
+The released reference (chebfun spin with its default ETDRK4, 511 Fourier points, dt 1e-5) is not
+converged: the viscous shock is only about two grid spacings wide. Here: Fourier
 pseudo-spectral on [-1, 1) with
-integrating-factor RK4 (as spin), no dealiasing, at two resolutions each in
+integrating-factor RK4, no dealiasing, at two resolutions each in
 space and time; the finest solution is written on the released (t, x) grid,
 together with the differences that show convergence and the error of the
 released reference. Runs in float64 on the GPU like everything else.
