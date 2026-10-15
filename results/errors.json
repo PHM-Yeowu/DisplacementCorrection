@@ -1,0 +1,326 @@
+[
+ {
+  "example": "burgers_nu3",
+  "seed": 42,
+  "method": "addfull1",
+  "error": 2.9950043367748956e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 42,
+  "method": "dispfull1",
+  "error": 5.97578553585756e-07
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 42,
+  "method": "backbone",
+  "error": 7.199219562438608e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 43,
+  "method": "addfull1",
+  "error": 3.091571935283318e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 43,
+  "method": "dispfull1",
+  "error": 3.0956109138541515e-07
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 43,
+  "method": "backbone",
+  "error": 5.7930759307100146e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 44,
+  "method": "addfull1",
+  "error": 2.235672164215762e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 44,
+  "method": "dispfull1",
+  "error": 4.5392736451113166e-07
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 44,
+  "method": "backbone",
+  "error": 8.08537161790802e-06
+ },
+ {
+  "example": "burgers",
+  "seed": 42,
+  "method": "addfull1",
+  "error": 2.1839446946401166e-07
+ },
+ {
+  "example": "burgers",
+  "seed": 42,
+  "method": "dispfull1",
+  "error": 1.1502967360142974e-08
+ },
+ {
+  "example": "burgers",
+  "seed": 42,
+  "method": "backbone",
+  "error": 2.3934819532329736e-06
+ },
+ {
+  "example": "burgers",
+  "seed": 43,
+  "method": "addfull1",
+  "error": 1.2822214867655317e-07
+ },
+ {
+  "example": "burgers",
+  "seed": 43,
+  "method": "dispfull1",
+  "error": 7.480595616489954e-09
+ },
+ {
+  "example": "burgers",
+  "seed": 43,
+  "method": "backbone",
+  "error": 1.956132194052185e-06
+ },
+ {
+  "example": "burgers",
+  "seed": 44,
+  "method": "addfull1",
+  "error": 5.168371947664247e-08
+ },
+ {
+  "example": "burgers",
+  "seed": 44,
+  "method": "dispfull1",
+  "error": 1.1441760686136808e-08
+ },
+ {
+  "example": "burgers",
+  "seed": 44,
+  "method": "backbone",
+  "error": 2.533569913051857e-06
+ },
+ {
+  "example": "kdv",
+  "seed": 42,
+  "method": "addfull1",
+  "error": 5.3274343649233165e-06
+ },
+ {
+  "example": "kdv",
+  "seed": 42,
+  "method": "dispfull1",
+  "error": 9.92556173927169e-07
+ },
+ {
+  "example": "kdv",
+  "seed": 42,
+  "method": "backbone",
+  "error": 0.00012504913288652697
+ },
+ {
+  "example": "kdv",
+  "seed": 43,
+  "method": "addfull1",
+  "error": 3.699588028599053e-06
+ },
+ {
+  "example": "kdv",
+  "seed": 43,
+  "method": "dispfull1",
+  "error": 1.1431598506594433e-06
+ },
+ {
+  "example": "kdv",
+  "seed": 43,
+  "method": "backbone",
+  "error": 0.0001189447322941986
+ },
+ {
+  "example": "kdv",
+  "seed": 44,
+  "method": "addfull1",
+  "error": 1.4485745927559842e-05
+ },
+ {
+  "example": "kdv",
+  "seed": 44,
+  "method": "dispfull1",
+  "error": 1.4889296265281517e-06
+ },
+ {
+  "example": "kdv",
+  "seed": 44,
+  "method": "backbone",
+  "error": 0.00014006936431167072
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 42,
+  "method": "addfull2",
+  "error": 2.9564915692040416e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 42,
+  "method": "dispfull2",
+  "error": 4.755773052902516e-07
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 43,
+  "method": "addfull2",
+  "error": 3.0444678123331096e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 43,
+  "method": "dispfull2",
+  "error": 2.700996076640307e-07
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 44,
+  "method": "addfull2",
+  "error": 2.2194557462631637e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 44,
+  "method": "dispfull2",
+  "error": 5.471339078223048e-07
+ },
+ {
+  "example": "burgers",
+  "seed": 42,
+  "method": "addfull2",
+  "error": 2.1367854587488814e-07
+ },
+ {
+  "example": "burgers",
+  "seed": 42,
+  "method": "dispfull2",
+  "error": 2.2236329320243795e-09
+ },
+ {
+  "example": "burgers",
+  "seed": 43,
+  "method": "addfull2",
+  "error": 1.2586393800915688e-07
+ },
+ {
+  "example": "burgers",
+  "seed": 43,
+  "method": "dispfull2",
+  "error": 2.849013899987619e-09
+ },
+ {
+  "example": "burgers",
+  "seed": 44,
+  "method": "addfull2",
+  "error": 5.008520719075339e-08
+ },
+ {
+  "example": "burgers",
+  "seed": 44,
+  "method": "dispfull2",
+  "error": 1.7629127882895198e-09
+ },
+ {
+  "example": "kdv",
+  "seed": 42,
+  "method": "addfull2",
+  "error": 5.245964799301782e-06
+ },
+ {
+  "example": "kdv",
+  "seed": 42,
+  "method": "dispfull2",
+  "error": 7.522331722440301e-07
+ },
+ {
+  "example": "kdv",
+  "seed": 43,
+  "method": "addfull2",
+  "error": 3.5430617882459194e-06
+ },
+ {
+  "example": "kdv",
+  "seed": 43,
+  "method": "dispfull2",
+  "error": 8.307279667452429e-07
+ },
+ {
+  "example": "kdv",
+  "seed": 44,
+  "method": "addfull2",
+  "error": 1.4140830996005194e-05
+ },
+ {
+  "example": "kdv",
+  "seed": 44,
+  "method": "dispfull2",
+  "error": 7.408976600384555e-07
+ },
+ {
+  "example": "kdv",
+  "seed": 42,
+  "method": "ctl",
+  "error": 9.45837460114932e-05
+ },
+ {
+  "example": "kdv",
+  "seed": 43,
+  "method": "ctl",
+  "error": 7.983485098564347e-05
+ },
+ {
+  "example": "kdv",
+  "seed": 44,
+  "method": "ctl",
+  "error": 0.00010049521976320059
+ },
+ {
+  "example": "burgers",
+  "seed": 42,
+  "method": "ctl",
+  "error": 8.712454963885087e-07
+ },
+ {
+  "example": "burgers",
+  "seed": 43,
+  "method": "ctl",
+  "error": 1.1443127586903565e-06
+ },
+ {
+  "example": "burgers",
+  "seed": 44,
+  "method": "ctl",
+  "error": 1.0308781186825501e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 42,
+  "method": "ctl",
+  "error": 5.3990312856461466e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 43,
+  "method": "ctl",
+  "error": 3.71454648789106e-06
+ },
+ {
+  "example": "burgers_nu3",
+  "seed": 44,
+  "method": "ctl",
+  "error": 3.7565320924326385e-06
+ }
+]

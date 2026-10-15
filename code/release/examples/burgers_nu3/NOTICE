@@ -1,0 +1,4 @@
+This example is adapted from examples/burgers of jaxpi2 (https://github.com/sifanexisted/jaxpi2), which is
+licensed under the Apache License 2.0 (LICENSE in this folder). Changes: the viscosity in models.py is 0.003 / pi
+in place of 0.01 / pi, utils.py reads data/burgers_nu3.mat (made by code/release/experiments/make_data.py), and the
+configurations other than base.py and baseline.py are removed.

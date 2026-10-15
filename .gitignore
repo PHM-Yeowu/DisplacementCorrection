@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# made by the scripts
+envs/
+runs/
+code/external/
+paper/figures/*.pdf
+paper/tables/

@@ -1,0 +1,14 @@
+# the versions this release was run and verified on; jaxpi2 is installed from code/external (setup_external.sh)
+jax[cuda13]==0.10.2
+flax==0.12.3
+optax==0.2.8
+orbax-checkpoint==0.12.6
+soap-jax @ git+https://github.com/haydn-jones/SOAP_JAX@45145bcadb20864e821b87999c306e885bed7171
+ml_collections==1.1.0
+absl-py==2.5.0
+numpy==2.3.5
+scipy==1.18.1
+matplotlib==3.11.2
+wandb==0.30.0
+tabulate==0.10.0
+tqdm==4.70.1
